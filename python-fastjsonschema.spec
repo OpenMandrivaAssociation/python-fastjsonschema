@@ -1,5 +1,5 @@
 Name:		python-fastjsonschema
-Version:	2.21.2
+Version:	2.22.1
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/f/fastjsonschema/fastjsonschema-%{version}.tar.gz
 Summary:	Fastest Python implementation of JSON schema
